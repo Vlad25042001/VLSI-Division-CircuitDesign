@@ -1,0 +1,6 @@
+#file: mult_top.rin
+width (vdd 100 vss 100)
+west (p0 p1 p2 p3 p4 p5 p6 p7) 
+north (p17 p18 p19 p20)
+east (p8 p9 p10 p11 p12 p13 p14 p15 p16) 
+south (p21 p22 p23 p24 p25)
